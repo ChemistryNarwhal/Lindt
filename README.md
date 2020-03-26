@@ -1,2 +1,2 @@
-<h1># Lindts History
+<h1> Lindts History </h1>
 
