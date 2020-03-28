@@ -5,4 +5,4 @@ lindts history is iportnde...
 Because linds was the ferst compne to make a good tasting chocotate. 
 
 ![Picture of a box of chocolates]
-(arianeCoco1.jpg "Yummy!")
+(chemistryNarwhal.github.io/Lindt/_layouts/assets/ --> chemistryNarwhal.github.io/Lindt/assets/arianeCoco1.jpg "Yummy!")
