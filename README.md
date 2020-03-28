@@ -4,4 +4,4 @@ lindts history is iportnde...
 
 Because linds was the ferst compne to make a good tasting chocotate. 
 
-<img src=arianeCoco1.jpg>
+<img src=arianeCoco1.jpg/>
