@@ -1,7 +1,5 @@
 <h1> Lindts History </h1>
 
-lindts history is iportnde.
-It was 1879. Rodolphe Lindt, the son of a Bernese pharmacist, wanted to make chocolate. Do you know what chocolate was like at the time? It was hard: hard to process and hard to eat. You actually had to chew it. Soft? Enjoyable? A joy for the senses? A pipe-dream. It did not become reality until one pivotal evening...
-But stop! Things didn't go that fast. Rodolphe Lindt was a confectioner, epicurean and bon vivant who wanted to create a chocolate that was not hard and pleasing to the pallet. He bought an old factory hall with antiquated machines. Bernese society was surprised but this did not discourage Rodolphe. He conducted some experiments, but nothing worked. On the contrary: A white layer formed on the chocolate mass. Bernese society poured scorn on him.
+lindts history is iportnde...
 
-It was his brother Auguste, a pharmacist like his father, who analysed the white coating which turned out to be harmless: crystallised fat. The testing continued well into the night. More cocoa beans? Cooking the Cocoa butter? Nobody had done this up to then! He worked on the recipe, thought about it, experimented. But no matter what he did, he was no closer to achieving his goal. "Chocolat fin"? You must be joking! Then came that Friday evening. Rodolphe Lindt, jeered as one of the "jeunesse dorée", left the factory without having finished his work – and more importantly, without having switched off the machines. Did he forget to do so because he was in such a hurry? Or was it intentional? Did he have a hunch or was it a small act of defiance? We don't know. But the machine continued to run: for a whole weekend.
+Because linds was the ferst compne to make 
